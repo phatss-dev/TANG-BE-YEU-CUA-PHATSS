@@ -21,7 +21,7 @@
   background-color: rgba(0, 0, 0, 0.3);
 }
 body {
-  background: #007fff;
+  background: #F9CADB;
   height: 100vh;
   overflow: hidden;
 }
@@ -35,7 +35,7 @@ body {
 #ui .love:last-child .love_word {
   color: #fff;
   font-size: 2rem;
-  text-shadow: 0 0 10px #007fff;
+  text-shadow: 0 0 10px #F9CADB;
 }
 #ui .love_word {
   color: #007fff;
