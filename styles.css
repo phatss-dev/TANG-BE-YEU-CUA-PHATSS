@@ -38,7 +38,7 @@ body {
   text-shadow: 0 0 10px #ea80b0;
 }
 #ui .love_word {
-  color: #ea80b0;
+  color: #007fff;
   font-size: 1.4rem;
   transform: translateY(-100%) rotateZ(-30deg);
   font-family: "Dosis", sans-serif;
